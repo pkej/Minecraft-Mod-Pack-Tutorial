@@ -8,4 +8,4 @@ Likewise create four different servers for testing different configurations.
 
 Follow up with rigorous cross testing of the different profiles against the different servers in order to check compatibility, and to make sure that client side only mods works on client side only and server side only mods doesn't require anythhing on the client.
 
-Read the wiki for details.
+Read the [wiki](https://github.com/pkej/Minecraft-Mod-Pack-Tutorial/wiki) for details.
