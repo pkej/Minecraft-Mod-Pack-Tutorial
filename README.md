@@ -2,7 +2,7 @@
 How to write, test and syncronize separate client and server packs. 
 
 # Synopsis
-Use a launcher where you can create different profiles, and create different profiles for testing.
+Use a launcher where you can create different profiles, and create different profiles for testing single mods, testing integration of mods and deployment.
 
 Likewise create four different servers for testing different configurations.
 
